@@ -2,9 +2,7 @@
 Use Database Migration tool to run your latest sql migration scripts and keep your database schema in sync.
 
 ## Usage ##
-Bash - to run follow instructions in `dmt.sh`
-
-Batch
+To run follow instructions in `dmt.sh`
 
 ## P-O-C  ##
 Youd should see this if migration script ran successfully. 
